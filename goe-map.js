@@ -10,10 +10,15 @@ function initMap() {
     zoom: 6,
     center: { lat: 40, lng: -4 },
   });
-  // NOTE: This uses cross-domain XHR, and may not work on older browsers.
+  // Load GeoJSON.
   map.data.loadGeoJson(
     "https://gorrthegod.github.io/goe/es_counties_simplify.json"
   );
+  // Set the stroke width, and fill color for each polygon
+  map.data.setStyle({
+    fillColor: "green",
+    strokeWeight: 1,
+  });
 }
 
 window.initMap = initMap;
