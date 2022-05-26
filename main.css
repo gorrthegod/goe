@@ -24,10 +24,10 @@ body {
 #info-box {
   background-color: white;
  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
-  bottom: 30px;
+  top: 50px;
   height: 10px;
   padding: 10px;
   position: absolute;
-  left: 30px;
+  left: 10px;
   font-family: 'Lucida Sans', Arial, sans-serif; font-size: 10px; 
 }
