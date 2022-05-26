@@ -20,10 +20,10 @@ function initMap() {
     strokeWeight: 1,
   });
   
-    // Set mouseover event for each feature.
+  // Set mouseover event for each feature.
   map.data.addListener("mouseover", (event) => {
     document.getElementById("info-box").textContent =
-      event.feature.getProperty("letter");
+      event.feature.getProperty("PROV") + " - " + event.feature.getProperty("COM") + " (" + event.feature.getProperty("COD_PROV_C") + ")" ;
   });
   
 }
