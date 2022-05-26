@@ -28,7 +28,7 @@ function initMap() {
     document.getElementById("info-box").textContent = event.feature.getProperty("PROV") + " - " + event.feature.getProperty("COM") + " (" + event.feature.getProperty("COD_PROV_C") + ")" ;
   
     map.data.revertStyle();
-    map.data.overrideStyle(event.feature, {strokeWeight: 2,fillColor:"blue"});
+    map.data.overrideStyle(event.feature, {strokeWeight: 3,fillColor:"RED"});
   
   });
   
@@ -64,9 +64,9 @@ map.data.setStyle(function(feature) {
 });
 
 // When the user clicks, set 'isColorful', changing the color of the letters.
-map.data.addListener('click', function(event) {
+/** map.data.addListener('click', function(event) {
   event.feature.setProperty('isColorful', true);
-});
+}); **/
 
   
 }
