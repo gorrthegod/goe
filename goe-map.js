@@ -20,11 +20,22 @@ function initMap() {
     strokeWeight: 1,
   });
   
-  // Set mouseover event for each feature.
+// When the user hovers, tempt them to click by outlining the letters.
+// Call revertStyle() to remove all overrides. This will use the style rules
+// defined in the function passed to setStyle()
+// set INFOBOX too
   map.data.addListener("mouseover", (event) => {
-    document.getElementById("info-box").textContent =
-      event.feature.getProperty("PROV") + " - " + event.feature.getProperty("COM") + " (" + event.feature.getProperty("COD_PROV_C") + ")" ;
+    document.getElementById("info-box").textContent = event.feature.getProperty("PROV") + " - " + event.feature.getProperty("COM") + " (" + event.feature.getProperty("COD_PROV_C") + ")" ;
+  
+    map.data.revertStyle();
+    map.data.overrideStyle(event.feature, {strokeWeight: 2,fillColor:"blue"});
+  
   });
+  
+
+map.data.addListener('mouseout', function(event) {
+  map.data.revertStyle();
+}); 
   
   var infowindow = new google.maps.InfoWindow();
                 
@@ -37,6 +48,26 @@ function initMap() {
               infowindow.open(map);
   });
   
+  
+  // Color each letter gray. Change the color when the isColorful property
+// is set to true.
+map.data.setStyle(function(feature) {
+  var color = 'gray';
+  if (feature.getProperty('isColorful')) {
+    color = "red";
+  }
+  return /** @type {!google.maps.Data.StyleOptions} */({
+    fillColor: color,
+    strokeColor: color,
+    strokeWeight: 1
+  });
+});
+
+// When the user clicks, set 'isColorful', changing the color of the letters.
+map.data.addListener('click', function(event) {
+  event.feature.setProperty('isColorful', true);
+});
+
   
 }
 
