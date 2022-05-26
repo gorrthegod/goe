@@ -33,7 +33,7 @@ function initMap() {
               let html = state; // combine state name with a label
               infowindow.setContent(html); // show the html variable in the infowindow
               infowindow.setPosition(event.latLng); // anchor the infowindow at the marker
-              infowindow.setOptions({pixelOffset: new google.maps.Size(0,-30)}); // move the infowindow up slightly to the top of the marker icon
+              // infowindow.setOptions({pixelOffset: new google.maps.Size(0,-30)}); // move the infowindow up slightly to the top of the marker icon
               infowindow.open(map);
   });
   
