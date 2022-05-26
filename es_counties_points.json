@@ -1,0 +1,1382 @@
+
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"COD_PROV_C":"ES0101","PROV":"Alava","COM":"Comarca 01: Cantábrica"},"geometry":{"type":"Point","coordinates":[-2.9875,42.96959]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0101","PROV":"Alava","COM":"Comarca 01: Cantábrica"},"geometry":{"type":"Point","coordinates":[-3.03167,43.10388]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0102","PROV":"Alava","COM":"Comarca 02: Estribaciones Gorbea"},"geometry":{"type":"Point","coordinates":[-2.85701,42.98282]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0103","PROV":"Alava","COM":"Comarca 03: Valles Alaveses"},"geometry":{"type":"Point","coordinates":[-2.9733,42.8253]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0104","PROV":"Alava","COM":"Comarca 04: Llanada Alavesa"},"geometry":{"type":"Point","coordinates":[-2.57275,42.8703]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0105","PROV":"Alava","COM":"Comarca 05: Montaña Alavesa"},"geometry":{"type":"Point","coordinates":[-2.662,42.58411]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0105","PROV":"Alava","COM":"Comarca 05: Montaña Alavesa"},"geometry":{"type":"Point","coordinates":[-2.46292,42.71835]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0106","PROV":"Alava","COM":"Comarca 06: Rioja Alavesa"},"geometry":{"type":"Point","coordinates":[-2.55956,42.54815]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0106","PROV":"Alava","COM":"Comarca 06: Rioja Alavesa"},"geometry":{"type":"Point","coordinates":[-2.79706,42.60552]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0201","PROV":"Albacete","COM":"Comarca 01: Mancha"},"geometry":{"type":"Point","coordinates":[-2.56759,39.1073]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0202","PROV":"Albacete","COM":"Comarca 02: Manchuela"},"geometry":{"type":"Point","coordinates":[-1.37686,39.19205]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0203","PROV":"Albacete","COM":"Comarca 03: Sierra Alcaraz"},"geometry":{"type":"Point","coordinates":[-2.48048,38.715]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0204","PROV":"Albacete","COM":"Comarca 04: Centro"},"geometry":{"type":"Point","coordinates":[-1.91175,38.9218]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0205","PROV":"Albacete","COM":"Comarca 05: Almansa"},"geometry":{"type":"Point","coordinates":[-1.05722,38.82592]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0206","PROV":"Albacete","COM":"Comarca 06: Sierra Segura"},"geometry":{"type":"Point","coordinates":[-2.20398,38.38807]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0207","PROV":"Albacete","COM":"Comarca 07: Hellín"},"geometry":{"type":"Point","coordinates":[-1.65144,38.51992]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0301","PROV":"Alicante","COM":"Comarca 01: Vinalopó"},"geometry":{"type":"Point","coordinates":[-0.81212,38.50903]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0302","PROV":"Alicante","COM":"Comarca 02: Montaña"},"geometry":{"type":"Point","coordinates":[-0.3898,38.72619]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0303","PROV":"Alicante","COM":"Comarca 03: Marquesado"},"geometry":{"type":"Point","coordinates":[0.23001,38.75538]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0303","PROV":"Alicante","COM":"Comarca 03: Marquesado"},"geometry":{"type":"Point","coordinates":[0.04282,38.7581]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0303","PROV":"Alicante","COM":"Comarca 03: Marquesado"},"geometry":{"type":"Point","coordinates":[0.21761,38.72685]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0304","PROV":"Alicante","COM":"Comarca 04: Central"},"geometry":{"type":"Point","coordinates":[-0.72738,38.19686]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0304","PROV":"Alicante","COM":"Comarca 04: Central"},"geometry":{"type":"Point","coordinates":[-0.47137,38.16413]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0304","PROV":"Alicante","COM":"Comarca 04: Central"},"geometry":{"type":"Point","coordinates":[-0.38226,38.43201]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0304","PROV":"Alicante","COM":"Comarca 04: Central"},"geometry":{"type":"Point","coordinates":[-0.13017,38.50236]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0401","PROV":"Almería","COM":"Comarca 01: Los Vélez"},"geometry":{"type":"Point","coordinates":[-2.15615,37.69175]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0402","PROV":"Almería","COM":"Comarca 02: Alto Almazora"},"geometry":{"type":"Point","coordinates":[-2.18936,37.40108]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0403","PROV":"Almería","COM":"Comarca 03: Bajo Almazora"},"geometry":{"type":"Point","coordinates":[-1.87689,37.32685]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0403","PROV":"Almería","COM":"Comarca 03: Bajo Almazora"},"geometry":{"type":"Point","coordinates":[-1.65253,37.34749]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0403","PROV":"Almería","COM":"Comarca 03: Bajo Almazora"},"geometry":{"type":"Point","coordinates":[-1.6486,37.35976]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0404","PROV":"Almería","COM":"Comarca 04: Río Nacimiento"},"geometry":{"type":"Point","coordinates":[-2.60674,37.12288]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0405","PROV":"Almería","COM":"Comarca 05: Campo Tabernas"},"geometry":{"type":"Point","coordinates":[-2.29712,37.12176]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0406","PROV":"Almería","COM":"Comarca 06: Alto Andarax"},"geometry":{"type":"Point","coordinates":[-2.90217,37.01019]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0407","PROV":"Almería","COM":"Comarca 07: Campo Dalías"},"geometry":{"type":"Point","coordinates":[-2.70922,36.79856]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0408","PROV":"Almería","COM":"Comarca 08: Campo Níjar y Bajo Andarax"},"geometry":{"type":"Point","coordinates":[-2.04921,36.81228]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0408","PROV":"Almería","COM":"Comarca 08: Campo Níjar y Bajo Andarax"},"geometry":{"type":"Point","coordinates":[-2.19113,36.72012]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0408","PROV":"Almería","COM":"Comarca 08: Campo Níjar y Bajo Andarax"},"geometry":{"type":"Point","coordinates":[-2.19089,36.72067]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0408","PROV":"Almería","COM":"Comarca 08: Campo Níjar y Bajo Andarax"},"geometry":{"type":"Point","coordinates":[-2.19395,36.72228]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0408","PROV":"Almería","COM":"Comarca 08: Campo Níjar y Bajo Andarax"},"geometry":{"type":"Point","coordinates":[-2.17494,36.72248]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0408","PROV":"Almería","COM":"Comarca 08: Campo Níjar y Bajo Andarax"},"geometry":{"type":"Point","coordinates":[-2.16512,36.87726]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0501","PROV":"Avila","COM":"Comarca 01: Arévalo-Madrigal"},"geometry":{"type":"Point","coordinates":[-4.78295,40.92189]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0502","PROV":"Avila","COM":"Comarca 02: Avila"},"geometry":{"type":"Point","coordinates":[-5.18344,40.6098]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0504","PROV":"Avila","COM":"Comarca 04: Gredos"},"geometry":{"type":"Point","coordinates":[-5.18037,40.3663]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0505","PROV":"Avila","COM":"Comarca 05: Valle Bajo Alberche"},"geometry":{"type":"Point","coordinates":[-4.50803,40.49236]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0506","PROV":"Avila","COM":"Comarca 06: Valle del Tiétar"},"geometry":{"type":"Point","coordinates":[-4.96918,40.23833]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0506","PROV":"Avila","COM":"Comarca 06: Valle del Tiétar"},"geometry":{"type":"Point","coordinates":[-4.49137,40.33914]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0601","PROV":"Badajoz","COM":"Comarca 01: Alburquerque"},"geometry":{"type":"Point","coordinates":[-6.65227,39.0877]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0601","PROV":"Badajoz","COM":"Comarca 01: Alburquerque"},"geometry":{"type":"Point","coordinates":[-6.93943,39.23651]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0601","PROV":"Badajoz","COM":"Comarca 01: Alburquerque"},"geometry":{"type":"Point","coordinates":[-6.63699,39.1806]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0602","PROV":"Badajoz","COM":"Comarca 02: Mérida"},"geometry":{"type":"Point","coordinates":[-6.25717,38.77209]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0603","PROV":"Badajoz","COM":"Comarca 03: Don Benito"},"geometry":{"type":"Point","coordinates":[-5.9489,38.90604]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0604","PROV":"Badajoz","COM":"Comarca 04: Puebla Alcocer"},"geometry":{"type":"Point","coordinates":[-5.0219,38.94155]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0605","PROV":"Badajoz","COM":"Comarca 05: Herrera Duque"},"geometry":{"type":"Point","coordinates":[-4.93193,39.25388]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0606","PROV":"Badajoz","COM":"Comarca 06: Badajoz"},"geometry":{"type":"Point","coordinates":[-6.48448,38.58317]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0608","PROV":"Badajoz","COM":"Comarca 08: Castuera"},"geometry":{"type":"Point","coordinates":[-5.40403,38.73986]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0609","PROV":"Badajoz","COM":"Comarca 09: Olivenza"},"geometry":{"type":"Point","coordinates":[-7.13504,38.49077]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0610","PROV":"Badajoz","COM":"Comarca 10: Jerez de los Caballeros"},"geometry":{"type":"Point","coordinates":[-6.51742,38.12864]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0611","PROV":"Badajoz","COM":"Comarca 11: Llerena"},"geometry":{"type":"Point","coordinates":[-6.16092,38.18197]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0612","PROV":"Badajoz","COM":"Comarca 12: Azuaga"},"geometry":{"type":"Point","coordinates":[-5.82444,38.47277]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.41601,38.6948]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.42472,38.78667]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.47663,38.79787]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.4035,38.81606]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.40757,38.8267]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.3711,38.82887]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.40409,38.81411]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.41063,38.81629]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.37074,38.82968]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.40557,38.83052]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.19605,38.87154]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.21874,38.88996]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.42339,38.8964]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.40621,38.87174]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.18917,38.95709]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.19673,38.95874]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.40514,38.83162]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.37144,38.83075]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.24367,38.86105]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.24405,38.86267]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.19941,38.86776]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.20958,38.86847]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.29823,38.87042]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.29932,38.87126]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.21578,38.98801]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.58469,39.00017]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.58695,39.00163]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.58313,39.00309]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.57298,38.98699]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.56949,38.99062]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.23185,38.97702]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.57831,38.98231]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.58351,38.9849]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.21223,38.98975]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.58376,39.00347]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.64334,39.03608]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.61036,39.04028]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.61012,39.04062]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.60781,39.04459]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.60635,39.04667]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.62036,39.04944]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.59121,39.05914]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.51656,39.11573]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.59974,39.0507]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.59848,39.05074]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.60249,39.05466]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.60069,39.05506]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.49675,38.9204]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.50196,38.93309]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.50685,38.93703]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.52861,38.94525]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.23535,38.94017]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.21793,38.95434]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.44501,38.99881]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.20116,38.95859]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.21936,38.96426]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.21739,38.96488]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.21696,38.96896]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0701","PROV":"Illes Balears","COM":"Comarca 01: Ibiza"},"geometry":{"type":"Point","coordinates":[1.2318,38.97367]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.97276,39.60339]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.94398,39.13708]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[3.01077,39.30455]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.4717,39.46227]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.4498,39.49747]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.45573,39.50235]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.47271,39.46319]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.47453,39.46534]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.47571,39.466]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.5408,39.4782]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.53341,39.48625]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.54531,39.50375]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.44032,39.53318]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.45576,39.50408]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.55368,39.52573]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.46229,39.52623]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.57358,39.52888]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.58837,39.53003]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.59254,39.53401]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.5863,39.53294]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.57336,39.52951]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.5751,39.53063]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.58875,39.53112]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.45853,39.53151]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.314,39.5793]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[3.37564,39.56504]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.34798,39.57704]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.61027,39.74049]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.59933,39.73287]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.59894,39.73219]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.59847,39.73079]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.59285,39.7239]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[3.40609,39.76986]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[3.188,39.75461]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[2.70992,39.81729]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0702","PROV":"Illes Balears","COM":"Comarca 02: Mallorca"},"geometry":{"type":"Point","coordinates":[3.17058,39.83539]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.29254,39.8008]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.29545,39.80292]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.21456,39.82736]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.29588,39.82735]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.21491,39.82764]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.30002,39.841]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.30077,39.84134]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.24174,39.81292]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.24141,39.81331]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.2439,39.81607]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.22751,39.82139]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.22173,39.82353]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.2239,39.82383]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.32459,39.8748]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.30393,39.8775]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.29853,39.88207]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.31105,39.88867]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.31158,39.88924]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.31203,39.88924]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.28723,39.88676]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.30865,39.89182]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.3083,39.89766]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.30701,39.89889]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.29903,39.89981]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.29625,39.90191]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.2958,39.90225]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.13877,39.94882]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.29013,39.91657]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.2952,39.90277]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.28991,39.91214]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.28685,39.91238]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.28727,39.91372]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.27997,39.94956]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.28001,39.95078]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.28314,39.95903]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.27747,39.95937]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.27334,39.9635]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.07523,40.09255]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.03171,40.06822]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.22481,39.99836]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.26175,39.99917]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.19925,40.00673]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.20446,40.01408]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.21275,40.0147]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.21077,40.01484]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.20993,40.0168]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.20934,40.01967]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.13675,40.04648]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0703","PROV":"Illes Balears","COM":"Comarca 03: Menorca"},"geometry":{"type":"Point","coordinates":[4.01969,40.06012]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0801","PROV":"Barcelona","COM":"Comarca 01: Bergadá"},"geometry":{"type":"Point","coordinates":[1.84631,42.08666]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0801","PROV":"Barcelona","COM":"Comarca 01: Bergadá"},"geometry":{"type":"Point","coordinates":[1.68035,42.1091]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0802","PROV":"Barcelona","COM":"Comarca 02: Bages"},"geometry":{"type":"Point","coordinates":[1.79444,41.72323]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0803","PROV":"Barcelona","COM":"Comarca 03: Osona"},"geometry":{"type":"Point","coordinates":[2.34779,42.00571]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0804","PROV":"Barcelona","COM":"Comarca 04: Moyanes"},"geometry":{"type":"Point","coordinates":[2.10652,41.78763]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0805","PROV":"Barcelona","COM":"Comarca 05: Penedés"},"geometry":{"type":"Point","coordinates":[1.74451,41.34266]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0806","PROV":"Barcelona","COM":"Comarca 06: Anoia"},"geometry":{"type":"Point","coordinates":[1.55017,41.59709]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0807","PROV":"Barcelona","COM":"Comarca 07: Maresme"},"geometry":{"type":"Point","coordinates":[2.69626,41.67359]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0808","PROV":"Barcelona","COM":"Comarca 08: Vallés Oriental"},"geometry":{"type":"Point","coordinates":[2.42527,41.71055]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0809","PROV":"Barcelona","COM":"Comarca 09: Vallés Occidental"},"geometry":{"type":"Point","coordinates":[2.07902,41.57262]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0810","PROV":"Barcelona","COM":"Comarca 10: Bajo Llobregat"},"geometry":{"type":"Point","coordinates":[1.99339,41.35812]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0901","PROV":"Burgos","COM":"Comarca 01: Merindades"},"geometry":{"type":"Point","coordinates":[-3.4468,42.95984]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0902","PROV":"Burgos","COM":"Comarca 02: Bureba-Ebro"},"geometry":{"type":"Point","coordinates":[-3.3657,42.59794]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0902","PROV":"Burgos","COM":"Comarca 02: Bureba-Ebro"},"geometry":{"type":"Point","coordinates":[-2.93585,42.60222]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0902","PROV":"Burgos","COM":"Comarca 02: Bureba-Ebro"},"geometry":{"type":"Point","coordinates":[-2.98983,42.61049]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0902","PROV":"Burgos","COM":"Comarca 02: Bureba-Ebro"},"geometry":{"type":"Point","coordinates":[-2.73184,42.72765]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0903","PROV":"Burgos","COM":"Comarca 03: Demanda"},"geometry":{"type":"Point","coordinates":[-3.22994,42.24158]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0903","PROV":"Burgos","COM":"Comarca 03: Demanda"},"geometry":{"type":"Point","coordinates":[-3.27397,42.44041]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0904","PROV":"Burgos","COM":"Comarca 04: La Ribera"},"geometry":{"type":"Point","coordinates":[-3.81808,41.66706]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0905","PROV":"Burgos","COM":"Comarca 05: Arlanza"},"geometry":{"type":"Point","coordinates":[-3.59336,41.92392]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0906","PROV":"Burgos","COM":"Comarca 06: Pisuerga"},"geometry":{"type":"Point","coordinates":[-4.12275,42.37797]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0907","PROV":"Burgos","COM":"Comarca 07: Páramos"},"geometry":{"type":"Point","coordinates":[-3.83312,42.69252]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0907","PROV":"Burgos","COM":"Comarca 07: Páramos"},"geometry":{"type":"Point","coordinates":[-4.25411,42.73272]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES0908","PROV":"Burgos","COM":"Comarca 08: Arlanzón"},"geometry":{"type":"Point","coordinates":[-3.58124,42.30967]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1001","PROV":"Cáceres","COM":"Comarca 01: Cáceres"},"geometry":{"type":"Point","coordinates":[-6.54628,39.30198]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1002","PROV":"Cáceres","COM":"Comarca 02: Trujillo"},"geometry":{"type":"Point","coordinates":[-5.66107,39.44993]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1003","PROV":"Cáceres","COM":"Comarca 03: Brozas"},"geometry":{"type":"Point","coordinates":[-6.74157,39.58944]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1004","PROV":"Cáceres","COM":"Comarca 04: Valencia de Alcántara"},"geometry":{"type":"Point","coordinates":[-7.16764,39.51427]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1005","PROV":"Cáceres","COM":"Comarca 05: Logrosán"},"geometry":{"type":"Point","coordinates":[-5.23248,39.43925]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1006","PROV":"Cáceres","COM":"Comarca 06: Navalmoral de la Mata"},"geometry":{"type":"Point","coordinates":[-5.58688,39.82539]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1007","PROV":"Cáceres","COM":"Comarca 07: Jaraiz de la Vera"},"geometry":{"type":"Point","coordinates":[-5.61262,40.12133]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1008","PROV":"Cáceres","COM":"Comarca 08: Plasencia"},"geometry":{"type":"Point","coordinates":[-6.0817,40.04972]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1010","PROV":"Cáceres","COM":"Comarca 10: Coria"},"geometry":{"type":"Point","coordinates":[-6.522,39.95988]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1101","PROV":"Cádiz","COM":"Comarca 01: Campiña de Cádiz"},"geometry":{"type":"Point","coordinates":[-5.76611,36.725]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1102","PROV":"Cádiz","COM":"Comarca 02: Costa Noroeste de Cádiz"},"geometry":{"type":"Point","coordinates":[-6.09457,36.37033]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1102","PROV":"Cádiz","COM":"Comarca 02: Costa Noroeste de Cádiz"},"geometry":{"type":"Point","coordinates":[-6.37416,36.7145]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1103","PROV":"Cádiz","COM":"Comarca 03: Sierra de Cádiz"},"geometry":{"type":"Point","coordinates":[-5.42922,36.75584]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1104","PROV":"Cádiz","COM":"Comarca 04: De la Janda"},"geometry":{"type":"Point","coordinates":[-6.00618,36.18139]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1104","PROV":"Cádiz","COM":"Comarca 04: De la Janda"},"geometry":{"type":"Point","coordinates":[-6.00858,36.18149]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1104","PROV":"Cádiz","COM":"Comarca 04: De la Janda"},"geometry":{"type":"Point","coordinates":[-5.73416,36.40878]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1105","PROV":"Cádiz","COM":"Comarca 05: Campo de Gibraltar"},"geometry":{"type":"Point","coordinates":[-5.42364,36.07633]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1105","PROV":"Cádiz","COM":"Comarca 05: Campo de Gibraltar"},"geometry":{"type":"Point","coordinates":[-5.43477,36.06505]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1105","PROV":"Cádiz","COM":"Comarca 05: Campo de Gibraltar"},"geometry":{"type":"Point","coordinates":[-5.43613,36.06555]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1105","PROV":"Cádiz","COM":"Comarca 05: Campo de Gibraltar"},"geometry":{"type":"Point","coordinates":[-5.42387,36.07718]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1105","PROV":"Cádiz","COM":"Comarca 05: Campo de Gibraltar"},"geometry":{"type":"Point","coordinates":[-5.44957,36.30517]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1201","PROV":"Castellón de la Plana","COM":"Comarca 01: Alto Maestrazgo"},"geometry":{"type":"Point","coordinates":[-0.13926,40.57934]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1202","PROV":"Castellón de la Plana","COM":"Comarca 02: Bajo Maestrazgo"},"geometry":{"type":"Point","coordinates":[0.08862,40.43303]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1203","PROV":"Castellón de la Plana","COM":"Comarca 03: Llanos Centrales"},"geometry":{"type":"Point","coordinates":[-0.08918,40.21752]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1204","PROV":"Castellón de la Plana","COM":"Comarca 04: Peñagolosa"},"geometry":{"type":"Point","coordinates":[-0.33398,40.18931]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1205","PROV":"Castellón de la Plana","COM":"Comarca 05: Litoral Norte"},"geometry":{"type":"Point","coordinates":[0.25483,40.32284]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1206","PROV":"Castellón de la Plana","COM":"Comarca 06: La Plana"},"geometry":{"type":"Point","coordinates":[0.68749,39.89964]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1206","PROV":"Castellón de la Plana","COM":"Comarca 06: La Plana"},"geometry":{"type":"Point","coordinates":[-0.09471,39.95931]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1206","PROV":"Castellón de la Plana","COM":"Comarca 06: La Plana"},"geometry":{"type":"Point","coordinates":[0.14832,40.0865]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1207","PROV":"Castellón de la Plana","COM":"Comarca 07: Palancia"},"geometry":{"type":"Point","coordinates":[-0.53394,39.94453]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1301","PROV":"Ciudad Real","COM":"Comarca 01: Montes Norte"},"geometry":{"type":"Point","coordinates":[-4.37506,39.22989]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1301","PROV":"Ciudad Real","COM":"Comarca 01: Montes Norte"},"geometry":{"type":"Point","coordinates":[-4.83982,39.46333]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1302","PROV":"Ciudad Real","COM":"Comarca 02: Campo de Calatrava"},"geometry":{"type":"Point","coordinates":[-3.92124,38.91546]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1303","PROV":"Ciudad Real","COM":"Comarca 03: Mancha"},"geometry":{"type":"Point","coordinates":[-3.44005,39.11005]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1304","PROV":"Ciudad Real","COM":"Comarca 04: Montes Sur"},"geometry":{"type":"Point","coordinates":[-4.73101,38.84494]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1305","PROV":"Ciudad Real","COM":"Comarca 05: Pastos"},"geometry":{"type":"Point","coordinates":[-4.08849,38.53967]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1305","PROV":"Ciudad Real","COM":"Comarca 05: Pastos"},"geometry":{"type":"Point","coordinates":[-3.48656,38.46754]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1306","PROV":"Ciudad Real","COM":"Comarca 06: Campo de Montiel"},"geometry":{"type":"Point","coordinates":[-3.23376,38.57579]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1306","PROV":"Ciudad Real","COM":"Comarca 06: Campo de Montiel"},"geometry":{"type":"Point","coordinates":[-2.84224,39.0547]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1401","PROV":"Córdoba","COM":"Comarca 01: Pedroches"},"geometry":{"type":"Point","coordinates":[-4.77632,38.3619]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1402","PROV":"Córdoba","COM":"Comarca 02: La Sierra"},"geometry":{"type":"Point","coordinates":[-5.05977,38.08931]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1403","PROV":"Córdoba","COM":"Comarca 03: Campiña Baja"},"geometry":{"type":"Point","coordinates":[-5.26617,37.68241]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1403","PROV":"Córdoba","COM":"Comarca 03: Campiña Baja"},"geometry":{"type":"Point","coordinates":[-4.53221,37.82505]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1403","PROV":"Córdoba","COM":"Comarca 03: Campiña Baja"},"geometry":{"type":"Point","coordinates":[-4.96828,37.72457]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1403","PROV":"Córdoba","COM":"Comarca 03: Campiña Baja"},"geometry":{"type":"Point","coordinates":[-5.04704,37.76475]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1404","PROV":"Córdoba","COM":"Comarca 04: Las Colonias"},"geometry":{"type":"Point","coordinates":[-5.03729,37.61617]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1404","PROV":"Córdoba","COM":"Comarca 04: Las Colonias"},"geometry":{"type":"Point","coordinates":[-4.92544,37.6719]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1404","PROV":"Córdoba","COM":"Comarca 04: Las Colonias"},"geometry":{"type":"Point","coordinates":[-5.1313,37.68279]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1405","PROV":"Córdoba","COM":"Comarca 05: Campiña Alta"},"geometry":{"type":"Point","coordinates":[-4.55925,37.41381]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1406","PROV":"Córdoba","COM":"Comarca 06: Penibética"},"geometry":{"type":"Point","coordinates":[-4.22836,37.47366]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-8.83367,43.35437]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-8.84109,43.35952]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-8.83337,43.35886]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-8.21153,43.5961]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-8.19155,43.61291]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-8.15408,43.61781]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-8.09754,43.65616]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-8.09128,43.66614]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-7.81051,43.6945]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-7.80877,43.69491]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-7.83581,43.70892]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-7.80109,43.74432]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-7.86243,43.74755]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-7.86966,43.77735]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-7.86751,43.77948]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-7.86639,43.78004]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1501","PROV":"A Coruña","COM":"Comarca 01: Septentrional"},"geometry":{"type":"Point","coordinates":[-8.29771,43.25824]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1502","PROV":"A Coruña","COM":"Comarca 02: Occidental"},"geometry":{"type":"Point","coordinates":[-9.01339,42.47563]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1502","PROV":"A Coruña","COM":"Comarca 02: Occidental"},"geometry":{"type":"Point","coordinates":[-9.00471,42.49776]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1502","PROV":"A Coruña","COM":"Comarca 02: Occidental"},"geometry":{"type":"Point","coordinates":[-9.04974,42.50876]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1502","PROV":"A Coruña","COM":"Comarca 02: Occidental"},"geometry":{"type":"Point","coordinates":[-8.97538,42.98663]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1502","PROV":"A Coruña","COM":"Comarca 02: Occidental"},"geometry":{"type":"Point","coordinates":[-9.04377,42.66182]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1503","PROV":"A Coruña","COM":"Comarca 03: Interior"},"geometry":{"type":"Point","coordinates":[-8.0736,43.00114]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1601","PROV":"Cuenca","COM":"Comarca 01: Alcarria"},"geometry":{"type":"Point","coordinates":[-2.71537,39.91238]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1601","PROV":"Cuenca","COM":"Comarca 01: Alcarria"},"geometry":{"type":"Point","coordinates":[-2.52797,40.25382]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1602","PROV":"Cuenca","COM":"Comarca 02: Serranía Alta"},"geometry":{"type":"Point","coordinates":[-1.70555,40.20876]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1602","PROV":"Cuenca","COM":"Comarca 02: Serranía Alta"},"geometry":{"type":"Point","coordinates":[-2.00514,40.3022]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1602","PROV":"Cuenca","COM":"Comarca 02: Serranía Alta"},"geometry":{"type":"Point","coordinates":[-1.84034,40.35462]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1602","PROV":"Cuenca","COM":"Comarca 02: Serranía Alta"},"geometry":{"type":"Point","coordinates":[-2.04548,40.42537]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1602","PROV":"Cuenca","COM":"Comarca 02: Serranía Alta"},"geometry":{"type":"Point","coordinates":[-2.18704,40.54625]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1602","PROV":"Cuenca","COM":"Comarca 02: Serranía Alta"},"geometry":{"type":"Point","coordinates":[-1.95929,40.44666]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1603","PROV":"Cuenca","COM":"Comarca 03: Serranía Media"},"geometry":{"type":"Point","coordinates":[-2.14361,40.31448]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1604","PROV":"Cuenca","COM":"Comarca 04: Serranía Baja"},"geometry":{"type":"Point","coordinates":[-1.54658,39.92442]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1605","PROV":"Cuenca","COM":"Comarca 05: Manchuela"},"geometry":{"type":"Point","coordinates":[-1.85574,39.47038]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1606","PROV":"Cuenca","COM":"Comarca 06: Mancha Baja"},"geometry":{"type":"Point","coordinates":[-2.60057,39.4927]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1607","PROV":"Cuenca","COM":"Comarca 07: Mancha Alta"},"geometry":{"type":"Point","coordinates":[-2.52443,39.84735]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1701","PROV":"Girona","COM":"Comarca 01: Cerdaña"},"geometry":{"type":"Point","coordinates":[1.90587,42.38945]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1701","PROV":"Girona","COM":"Comarca 01: Cerdaña"},"geometry":{"type":"Point","coordinates":[1.97383,42.46511]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1702","PROV":"Girona","COM":"Comarca 02: Ripollés"},"geometry":{"type":"Point","coordinates":[2.01327,42.11964]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1702","PROV":"Girona","COM":"Comarca 02: Ripollés"},"geometry":{"type":"Point","coordinates":[2.20746,42.27926]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1703","PROV":"Girona","COM":"Comarca 03: Garrotxa"},"geometry":{"type":"Point","coordinates":[2.54508,42.16664]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[2.98607,42.3066]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.26453,42.23717]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.20373,42.24006]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.19889,42.24274]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.28388,42.27365]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.29288,42.28146]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.27966,42.28197]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.29634,42.29468]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.3099,42.29038]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.30897,42.29158]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.30963,42.29188]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.29536,42.29217]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.3066,42.31047]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.30118,42.30514]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.29206,42.30284]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.33218,42.31964]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.32133,42.32292]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.30942,42.31199]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.3055,42.32762]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.28543,42.33232]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.28669,42.3327]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.24272,42.33975]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.18335,42.35343]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.16556,42.3623]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.16778,42.36747]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.16791,42.36805]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.165,42.37435]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1704","PROV":"Girona","COM":"Comarca 04: Alto Ampurdán"},"geometry":{"type":"Point","coordinates":[3.16553,42.41095]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.0461,41.77968]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.04555,41.77997]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.02846,41.77066]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.02392,41.77279]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.04108,41.7782]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.02513,41.77281]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.09454,41.95865]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.09433,41.8345]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.13008,41.84077]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.09479,41.83552]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.13784,41.8474]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.13839,41.84767]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.15368,41.8609]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.14136,41.8482]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.14216,41.84864]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.17915,41.8672]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.17903,41.86782]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.17899,41.87128]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.2066,41.89976]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.20983,41.90299]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.20845,41.9082]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.21951,41.92525]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.21819,41.92412]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.21787,41.92462]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.21839,41.93771]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.2286,42.04146]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.22201,42.0475]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.2275,42.04173]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.2257,42.04349]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.20569,42.07383]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1705","PROV":"Girona","COM":"Comarca 05: Bajo Ampurdán"},"geometry":{"type":"Point","coordinates":[3.19796,42.08467]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1706","PROV":"Girona","COM":"Comarca 06: Gironés"},"geometry":{"type":"Point","coordinates":[2.78875,42.05006]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.80429,41.6731]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.79244,41.67026]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.8035,41.67306]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.59262,41.85585]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.8389,41.69253]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.88683,41.70137]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.89632,41.70363]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.91237,41.70753]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.9464,41.7257]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.94597,41.72603]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1707","PROV":"Girona","COM":"Comarca 07: La Selva"},"geometry":{"type":"Point","coordinates":[2.94042,41.72006]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1801","PROV":"Granada","COM":"Comarca 01: De la Vega"},"geometry":{"type":"Point","coordinates":[-3.48968,37.18734]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1802","PROV":"Granada","COM":"Comarca 02: Guadix"},"geometry":{"type":"Point","coordinates":[-3.08205,37.30034]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1803","PROV":"Granada","COM":"Comarca 03: Baza"},"geometry":{"type":"Point","coordinates":[-2.76345,37.5214]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1804","PROV":"Granada","COM":"Comarca 04: Huéscar"},"geometry":{"type":"Point","coordinates":[-2.48933,37.8468]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1805","PROV":"Granada","COM":"Comarca 05: Iznalloz"},"geometry":{"type":"Point","coordinates":[-3.49172,37.45908]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1806","PROV":"Granada","COM":"Comarca 06: Montefrío"},"geometry":{"type":"Point","coordinates":[-3.91627,37.29452]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1807","PROV":"Granada","COM":"Comarca 07: Alhama"},"geometry":{"type":"Point","coordinates":[-4.00715,36.97475]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1808","PROV":"Granada","COM":"Comarca 08: La Costa"},"geometry":{"type":"Point","coordinates":[-3.38987,36.70824]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1808","PROV":"Granada","COM":"Comarca 08: La Costa"},"geometry":{"type":"Point","coordinates":[-3.54202,36.79726]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1809","PROV":"Granada","COM":"Comarca 09: Las Alpujarras"},"geometry":{"type":"Point","coordinates":[-3.16079,36.98316]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1810","PROV":"Granada","COM":"Comarca 10: Valle de Lecrín"},"geometry":{"type":"Point","coordinates":[-3.64992,36.97227]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1901","PROV":"Guadalajara","COM":"Comarca 01: Campiña"},"geometry":{"type":"Point","coordinates":[-2.9718,40.39831]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1901","PROV":"Guadalajara","COM":"Comarca 01: Campiña"},"geometry":{"type":"Point","coordinates":[-3.37309,40.6312]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1902","PROV":"Guadalajara","COM":"Comarca 02: Sierra"},"geometry":{"type":"Point","coordinates":[-3.16735,41.084]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1903","PROV":"Guadalajara","COM":"Comarca 03: Alcarria Alta"},"geometry":{"type":"Point","coordinates":[-2.48317,40.8639]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1904","PROV":"Guadalajara","COM":"Comarca 04: Molina de Aragón"},"geometry":{"type":"Point","coordinates":[-1.88582,40.85605]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES1905","PROV":"Guadalajara","COM":"Comarca 05: Alcarria Baja"},"geometry":{"type":"Point","coordinates":[-2.71947,40.54577]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2001","PROV":"Guipúzcoa","COM":"Comarca 01: Guipúzcoa"},"geometry":{"type":"Point","coordinates":[-2.32458,43.11382]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2001","PROV":"Guipúzcoa","COM":"Comarca 01: Guipúzcoa"},"geometry":{"type":"Point","coordinates":[-1.99923,43.3216]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2101","PROV":"Huelva","COM":"Comarca 01: Sierra"},"geometry":{"type":"Point","coordinates":[-6.7453,37.91268]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2102","PROV":"Huelva","COM":"Comarca 02: Andévalo Occidental"},"geometry":{"type":"Point","coordinates":[-7.25425,37.6322]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2103","PROV":"Huelva","COM":"Comarca 03: Andévalo Oriental"},"geometry":{"type":"Point","coordinates":[-6.6439,37.63522]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2104","PROV":"Huelva","COM":"Comarca 04: Costa"},"geometry":{"type":"Point","coordinates":[-7.00372,37.31267]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2105","PROV":"Huelva","COM":"Comarca 05: Condado Campiña"},"geometry":{"type":"Point","coordinates":[-6.62057,37.38905]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2106","PROV":"Huelva","COM":"Comarca 06: Condado Litoral"},"geometry":{"type":"Point","coordinates":[-6.51654,37.14373]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2201","PROV":"Huesca","COM":"Comarca 01: Jacetania"},"geometry":{"type":"Point","coordinates":[-0.46054,42.57897]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2202","PROV":"Huesca","COM":"Comarca 02: Sobrarbe"},"geometry":{"type":"Point","coordinates":[0.10599,42.50946]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2203","PROV":"Huesca","COM":"Comarca 03: Ribagorza"},"geometry":{"type":"Point","coordinates":[0.55003,42.3737]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2204","PROV":"Huesca","COM":"Comarca 04: Hoya de Huesca"},"geometry":{"type":"Point","coordinates":[-0.47654,42.1034]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2205","PROV":"Huesca","COM":"Comarca 05: Somontano"},"geometry":{"type":"Point","coordinates":[0.05074,42.10032]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2206","PROV":"Huesca","COM":"Comarca 06: Monegros"},"geometry":{"type":"Point","coordinates":[-0.23528,41.747]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2207","PROV":"Huesca","COM":"Comarca 07: La Litera"},"geometry":{"type":"Point","coordinates":[0.35589,41.87925]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2208","PROV":"Huesca","COM":"Comarca 08: Bajo Cinca"},"geometry":{"type":"Point","coordinates":[0.16677,41.58198]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2301","PROV":"Jaén","COM":"Comarca 01: Sierra Morena"},"geometry":{"type":"Point","coordinates":[-3.99624,38.19679]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2302","PROV":"Jaén","COM":"Comarca 02: El Condado"},"geometry":{"type":"Point","coordinates":[-2.84432,38.20025]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2302","PROV":"Jaén","COM":"Comarca 02: El Condado"},"geometry":{"type":"Point","coordinates":[-3.16843,38.30615]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2303","PROV":"Jaén","COM":"Comarca 03: Sierra de Segura"},"geometry":{"type":"Point","coordinates":[-2.71898,38.34501]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2304","PROV":"Jaén","COM":"Comarca 04: Campiña del Norte"},"geometry":{"type":"Point","coordinates":[-3.73179,38.02423]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2305","PROV":"Jaén","COM":"Comarca 05: La Loma"},"geometry":{"type":"Point","coordinates":[-3.32211,38.019]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2306","PROV":"Jaén","COM":"Comarca 06: Campiña del Sur"},"geometry":{"type":"Point","coordinates":[-4.01177,37.75005]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2307","PROV":"Jaén","COM":"Comarca 07: Magina"},"geometry":{"type":"Point","coordinates":[-3.38177,37.7218]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2308","PROV":"Jaén","COM":"Comarca 08: Sierra de Cazorla"},"geometry":{"type":"Point","coordinates":[-3.01878,37.86984]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2309","PROV":"Jaén","COM":"Comarca 09: Sierra Sur"},"geometry":{"type":"Point","coordinates":[-3.92116,37.48136]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2401","PROV":"León","COM":"Comarca 01: Bierzo"},"geometry":{"type":"Point","coordinates":[-6.704,42.66463]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2402","PROV":"León","COM":"Comarca 02: La Montaña de Luna"},"geometry":{"type":"Point","coordinates":[-6.03847,42.89823]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2403","PROV":"León","COM":"Comarca 03: La Montaña de Riaño"},"geometry":{"type":"Point","coordinates":[-5.22156,42.91607]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2404","PROV":"León","COM":"Comarca 04: La Cabrera"},"geometry":{"type":"Point","coordinates":[-6.38092,42.31992]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2405","PROV":"León","COM":"Comarca 05: Astorga"},"geometry":{"type":"Point","coordinates":[-6.06874,42.55358]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2406","PROV":"León","COM":"Comarca 06: Tierras de León"},"geometry":{"type":"Point","coordinates":[-5.64153,42.65003]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2407","PROV":"León","COM":"Comarca 07: La Bañeza"},"geometry":{"type":"Point","coordinates":[-5.94748,42.24324]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2408","PROV":"León","COM":"Comarca 08: El Páramo"},"geometry":{"type":"Point","coordinates":[-5.75088,42.41788]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2409","PROV":"León","COM":"Comarca 09: Esla-Campos"},"geometry":{"type":"Point","coordinates":[-5.40987,42.39525]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2410","PROV":"León","COM":"Comarca 10: Sahagún"},"geometry":{"type":"Point","coordinates":[-5.10599,42.43433]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2501","PROV":"Lleida","COM":"Comarca 01: Valle de Arán"},"geometry":{"type":"Point","coordinates":[0.79015,42.72686]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2502","PROV":"Lleida","COM":"Comarca 02: Pallars-Ribagorza"},"geometry":{"type":"Point","coordinates":[1.06121,42.462]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2503","PROV":"Lleida","COM":"Comarca 03: Alto Urgel"},"geometry":{"type":"Point","coordinates":[1.35499,42.34365]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2504","PROV":"Lleida","COM":"Comarca 04: Conca"},"geometry":{"type":"Point","coordinates":[0.9675,42.15398]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2504","PROV":"Lleida","COM":"Comarca 04: Conca"},"geometry":{"type":"Point","coordinates":[0.77837,42.36146]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2505","PROV":"Lleida","COM":"Comarca 05: Solsonés"},"geometry":{"type":"Point","coordinates":[1.55773,42.10409]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2505","PROV":"Lleida","COM":"Comarca 05: Solsonés"},"geometry":{"type":"Point","coordinates":[1.71828,41.88882]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2506","PROV":"Lleida","COM":"Comarca 06: Noguera"},"geometry":{"type":"Point","coordinates":[0.75956,41.89194]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2507","PROV":"Lleida","COM":"Comarca 07: Urgel"},"geometry":{"type":"Point","coordinates":[1.02486,41.6887]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2508","PROV":"Lleida","COM":"Comarca 08: Segarra"},"geometry":{"type":"Point","coordinates":[1.29772,41.75435]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2509","PROV":"Lleida","COM":"Comarca 09: Segriá"},"geometry":{"type":"Point","coordinates":[0.5438,41.66417]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2509","PROV":"Lleida","COM":"Comarca 09: Segriá"},"geometry":{"type":"Point","coordinates":[0.79014,41.59894]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2510","PROV":"Lleida","COM":"Comarca 10: Garrigas"},"geometry":{"type":"Point","coordinates":[0.64002,41.41019]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2601","PROV":"La Rioja","COM":"Comarca 01: Rioja Alta"},"geometry":{"type":"Point","coordinates":[-2.91421,42.47811]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2601","PROV":"La Rioja","COM":"Comarca 01: Rioja Alta"},"geometry":{"type":"Point","coordinates":[-3.08803,42.40969]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2602","PROV":"La Rioja","COM":"Comarca 02: Sierra Rioja Alta"},"geometry":{"type":"Point","coordinates":[-2.87054,42.1595]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2603","PROV":"La Rioja","COM":"Comarca 03: Rioja Media"},"geometry":{"type":"Point","coordinates":[-2.47105,42.40391]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2604","PROV":"La Rioja","COM":"Comarca 04: Sierra Rioja Media"},"geometry":{"type":"Point","coordinates":[-2.56783,42.21322]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2605","PROV":"La Rioja","COM":"Comarca 05: Rioja Baja"},"geometry":{"type":"Point","coordinates":[-1.98054,42.20299]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2606","PROV":"La Rioja","COM":"Comarca 06: Sierra Rioja Baja"},"geometry":{"type":"Point","coordinates":[-2.27778,42.20253]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2701","PROV":"Lugo","COM":"Comarca 01: Costa"},"geometry":{"type":"Point","coordinates":[-7.44121,43.57258]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2701","PROV":"Lugo","COM":"Comarca 01: Costa"},"geometry":{"type":"Point","coordinates":[-7.07641,43.55536]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2701","PROV":"Lugo","COM":"Comarca 01: Costa"},"geometry":{"type":"Point","coordinates":[-7.04308,43.55665]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2701","PROV":"Lugo","COM":"Comarca 01: Costa"},"geometry":{"type":"Point","coordinates":[-7.0626,43.55941]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2701","PROV":"Lugo","COM":"Comarca 01: Costa"},"geometry":{"type":"Point","coordinates":[-7.11795,43.56245]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2701","PROV":"Lugo","COM":"Comarca 01: Costa"},"geometry":{"type":"Point","coordinates":[-7.34489,43.66398]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2701","PROV":"Lugo","COM":"Comarca 01: Costa"},"geometry":{"type":"Point","coordinates":[-7.60971,43.67548]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2701","PROV":"Lugo","COM":"Comarca 01: Costa"},"geometry":{"type":"Point","coordinates":[-7.63133,43.7592]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2701","PROV":"Lugo","COM":"Comarca 01: Costa"},"geometry":{"type":"Point","coordinates":[-7.49083,43.7307]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2702","PROV":"Lugo","COM":"Comarca 02: Terra Cha"},"geometry":{"type":"Point","coordinates":[-7.67043,43.31946]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2703","PROV":"Lugo","COM":"Comarca 03: Central"},"geometry":{"type":"Point","coordinates":[-7.54358,42.91251]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2704","PROV":"Lugo","COM":"Comarca 04: Montaña"},"geometry":{"type":"Point","coordinates":[-7.0687,42.86936]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2705","PROV":"Lugo","COM":"Comarca 05: Sur"},"geometry":{"type":"Point","coordinates":[-7.53446,42.53547]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2801","PROV":"Madrid","COM":"Comarca 01: Lozoya Somosierra"},"geometry":{"type":"Point","coordinates":[-3.64265,40.89872]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2802","PROV":"Madrid","COM":"Comarca 02: Guadarrama"},"geometry":{"type":"Point","coordinates":[-3.97178,40.67532]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2802","PROV":"Madrid","COM":"Comarca 02: Guadarrama"},"geometry":{"type":"Point","coordinates":[-4.28633,40.6659]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2803","PROV":"Madrid","COM":"Comarca 03: Area Metropolitana de Madrid"},"geometry":{"type":"Point","coordinates":[-3.70548,40.47017]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2804","PROV":"Madrid","COM":"Comarca 04: Campiña"},"geometry":{"type":"Point","coordinates":[-3.30287,40.40351]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2805","PROV":"Madrid","COM":"Comarca 05: Sur Occidental"},"geometry":{"type":"Point","coordinates":[-4.12854,40.3623]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2806","PROV":"Madrid","COM":"Comarca 06: Vegas"},"geometry":{"type":"Point","coordinates":[-3.49324,40.15247]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2901","PROV":"Málaga","COM":"Comarca 01: Norte o Antequera"},"geometry":{"type":"Point","coordinates":[-4.44945,37.06609]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2902","PROV":"Málaga","COM":"Comarca 02: Serranía de Ronda"},"geometry":{"type":"Point","coordinates":[-5.2611,36.60937]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2903","PROV":"Málaga","COM":"Comarca 03: Centro-Sur o Guadalorce"},"geometry":{"type":"Point","coordinates":[-4.73376,36.68434]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2903","PROV":"Málaga","COM":"Comarca 03: Centro-Sur o Guadalorce"},"geometry":{"type":"Point","coordinates":[-4.28224,36.77958]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES2904","PROV":"Málaga","COM":"Comarca 04: Vélez Málaga"},"geometry":{"type":"Point","coordinates":[-4.14826,36.8363]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3001","PROV":"Murcia","COM":"Comarca 01: Nordeste"},"geometry":{"type":"Point","coordinates":[-1.26798,38.50603]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3002","PROV":"Murcia","COM":"Comarca 02: Noroeste"},"geometry":{"type":"Point","coordinates":[-1.99635,38.08832]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3003","PROV":"Murcia","COM":"Comarca 03: Centro"},"geometry":{"type":"Point","coordinates":[-1.54825,38.07855]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3004","PROV":"Murcia","COM":"Comarca 04: Río Segura"},"geometry":{"type":"Point","coordinates":[-1.07257,37.73458]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3004","PROV":"Murcia","COM":"Comarca 04: Río Segura"},"geometry":{"type":"Point","coordinates":[-1.31384,38.1903]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3005","PROV":"Murcia","COM":"Comarca 05: Suroeste y Valle Guadalentín"},"geometry":{"type":"Point","coordinates":[-1.5464,37.40858]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3005","PROV":"Murcia","COM":"Comarca 05: Suroeste y Valle Guadalentín"},"geometry":{"type":"Point","coordinates":[-1.6265,37.63761]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3005","PROV":"Murcia","COM":"Comarca 05: Suroeste y Valle Guadalentín"},"geometry":{"type":"Point","coordinates":[-1.26802,37.5562]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.95644,37.69514]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.76268,37.69144]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.76392,37.69157]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.77076,37.69597]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.79911,37.70134]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.70799,37.72731]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.74149,37.7741]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.75872,37.77952]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.74439,37.78023]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.74458,37.78086]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.75814,37.78198]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.75925,37.78373]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.7466,37.78552]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.75963,37.78567]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.74699,37.78631]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.74777,37.78739]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.75932,37.79243]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.7614,37.79287]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.76051,37.78756]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.75581,37.78487]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.74802,37.7887]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.76139,37.78966]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3006","PROV":"Murcia","COM":"Comarca 06: Campo de Cartagena"},"geometry":{"type":"Point","coordinates":[-0.75999,37.78813]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3101","PROV":"Navarra","COM":"Comarca 01: Nord Occidental"},"geometry":{"type":"Point","coordinates":[-1.70072,43.1124]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3102","PROV":"Navarra","COM":"Comarca 02: Pirineos"},"geometry":{"type":"Point","coordinates":[-1.11843,42.83911]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3103","PROV":"Navarra","COM":"Comarca 03: Cuenca de Pamplona"},"geometry":{"type":"Point","coordinates":[-1.72788,42.75349]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3104","PROV":"Navarra","COM":"Comarca 04: Tierra Estella"},"geometry":{"type":"Point","coordinates":[-2.11593,42.65076]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3105","PROV":"Navarra","COM":"Comarca 05: Navarra Media"},"geometry":{"type":"Point","coordinates":[-1.57408,42.5458]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3105","PROV":"Navarra","COM":"Comarca 05: Navarra Media"},"geometry":{"type":"Point","coordinates":[-1.16688,42.41955]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3105","PROV":"Navarra","COM":"Comarca 05: Navarra Media"},"geometry":{"type":"Point","coordinates":[-1.09723,42.45875]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3106","PROV":"Navarra","COM":"Comarca 06: Ribera Alta Aragón"},"geometry":{"type":"Point","coordinates":[-1.8318,42.38555]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3107","PROV":"Navarra","COM":"Comarca 07: Ribera Baja"},"geometry":{"type":"Point","coordinates":[-1.53593,42.15269]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3201","PROV":"Ourense","COM":"Comarca 01: Orense"},"geometry":{"type":"Point","coordinates":[-7.99319,42.33608]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3202","PROV":"Ourense","COM":"Comarca 02: El Barco de Valdeorras"},"geometry":{"type":"Point","coordinates":[-7.00458,42.32678]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3203","PROV":"Ourense","COM":"Comarca 03: Verín"},"geometry":{"type":"Point","coordinates":[-7.60262,42.06248]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3301","PROV":"Asturias","COM":"Comarca 01: Vegadeo"},"geometry":{"type":"Point","coordinates":[-7.04541,43.37857]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3302","PROV":"Asturias","COM":"Comarca 02: Luarca"},"geometry":{"type":"Point","coordinates":[-6.82009,43.42874]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3303","PROV":"Asturias","COM":"Comarca 03: Cangas de Narcea"},"geometry":{"type":"Point","coordinates":[-6.59606,43.05847]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3304","PROV":"Asturias","COM":"Comarca 04: Grado"},"geometry":{"type":"Point","coordinates":[-6.17565,43.46569]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3305","PROV":"Asturias","COM":"Comarca 05: Belmonte de Miranda"},"geometry":{"type":"Point","coordinates":[-6.02842,43.166]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3306","PROV":"Asturias","COM":"Comarca 06: Gijón"},"geometry":{"type":"Point","coordinates":[-5.43994,43.47455]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3307","PROV":"Asturias","COM":"Comarca 07: Oviedo"},"geometry":{"type":"Point","coordinates":[-5.90587,43.41621]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3307","PROV":"Asturias","COM":"Comarca 07: Oviedo"},"geometry":{"type":"Point","coordinates":[-5.68137,43.40692]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3308","PROV":"Asturias","COM":"Comarca 08: Mieres"},"geometry":{"type":"Point","coordinates":[-5.77434,43.149]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3309","PROV":"Asturias","COM":"Comarca 09: Llanes"},"geometry":{"type":"Point","coordinates":[-5.31796,43.33514]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3310","PROV":"Asturias","COM":"Comarca 10: Cangas de Onís"},"geometry":{"type":"Point","coordinates":[-5.03695,43.28219]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3401","PROV":"Palencia","COM":"Comarca 01: El Cerrato"},"geometry":{"type":"Point","coordinates":[-4.22024,41.96386]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3401","PROV":"Palencia","COM":"Comarca 01: El Cerrato"},"geometry":{"type":"Point","coordinates":[-4.08409,42.15142]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3402","PROV":"Palencia","COM":"Comarca 02: Campos"},"geometry":{"type":"Point","coordinates":[-4.74077,42.0519]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3403","PROV":"Palencia","COM":"Comarca 03: Saldaña-Valdavia"},"geometry":{"type":"Point","coordinates":[-4.7548,42.54253]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3404","PROV":"Palencia","COM":"Comarca 04: Boedo-Ojeda"},"geometry":{"type":"Point","coordinates":[-4.40214,42.62307]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3405","PROV":"Palencia","COM":"Comarca 05: Guardo"},"geometry":{"type":"Point","coordinates":[-4.778,42.81043]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3406","PROV":"Palencia","COM":"Comarca 06: Cervera"},"geometry":{"type":"Point","coordinates":[-4.4959,42.92448]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3407","PROV":"Palencia","COM":"Comarca 07: Aguilar"},"geometry":{"type":"Point","coordinates":[-4.01333,42.78329]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3407","PROV":"Palencia","COM":"Comarca 07: Aguilar"},"geometry":{"type":"Point","coordinates":[-4.30645,42.78724]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3407","PROV":"Palencia","COM":"Comarca 07: Aguilar"},"geometry":{"type":"Point","coordinates":[-4.09762,42.81418]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3407","PROV":"Palencia","COM":"Comarca 07: Aguilar"},"geometry":{"type":"Point","coordinates":[-4.17159,42.81708]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3501","PROV":"Las Palmas","COM":"Comarca 01: Gran Canaria"},"geometry":{"type":"Point","coordinates":[-15.57604,27.95648]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3502","PROV":"Las Palmas","COM":"Comarca 02: Fuerteventura"},"geometry":{"type":"Point","coordinates":[-14.02518,28.35976]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3502","PROV":"Las Palmas","COM":"Comarca 02: Fuerteventura"},"geometry":{"type":"Point","coordinates":[-13.82212,28.74964]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3503","PROV":"Las Palmas","COM":"Comarca 03: Lanzarote"},"geometry":{"type":"Point","coordinates":[-13.62657,29.02968]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3503","PROV":"Las Palmas","COM":"Comarca 03: Lanzarote"},"geometry":{"type":"Point","coordinates":[-13.50292,29.26357]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3601","PROV":"Pontevedra","COM":"Comarca 01: Montaña"},"geometry":{"type":"Point","coordinates":[-8.10951,42.69878]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3602","PROV":"Pontevedra","COM":"Comarca 02: Litoral"},"geometry":{"type":"Point","coordinates":[-8.69237,42.53771]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3602","PROV":"Pontevedra","COM":"Comarca 02: Litoral"},"geometry":{"type":"Point","coordinates":[-8.93597,42.34661]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3602","PROV":"Pontevedra","COM":"Comarca 02: Litoral"},"geometry":{"type":"Point","coordinates":[-8.93809,42.37942]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3602","PROV":"Pontevedra","COM":"Comarca 02: Litoral"},"geometry":{"type":"Point","coordinates":[-8.7093,42.41155]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3602","PROV":"Pontevedra","COM":"Comarca 02: Litoral"},"geometry":{"type":"Point","coordinates":[-8.8493,42.48895]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3602","PROV":"Pontevedra","COM":"Comarca 02: Litoral"},"geometry":{"type":"Point","coordinates":[-8.90004,42.54212]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3602","PROV":"Pontevedra","COM":"Comarca 02: Litoral"},"geometry":{"type":"Point","coordinates":[-8.91582,42.54537]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3602","PROV":"Pontevedra","COM":"Comarca 02: Litoral"},"geometry":{"type":"Point","coordinates":[-8.86798,42.54978]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3602","PROV":"Pontevedra","COM":"Comarca 02: Litoral"},"geometry":{"type":"Point","coordinates":[-8.78706,42.6178]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3603","PROV":"Pontevedra","COM":"Comarca 03: Interior"},"geometry":{"type":"Point","coordinates":[-8.44368,42.39401]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3604","PROV":"Pontevedra","COM":"Comarca 04: Miño"},"geometry":{"type":"Point","coordinates":[-8.48905,42.17272]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3701","PROV":"Salamanca","COM":"Comarca 01: Vitigudino"},"geometry":{"type":"Point","coordinates":[-6.53516,41.03279]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3701","PROV":"Salamanca","COM":"Comarca 01: Vitigudino"},"geometry":{"type":"Point","coordinates":[-6.53419,40.796]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3702","PROV":"Salamanca","COM":"Comarca 02: Ledesma"},"geometry":{"type":"Point","coordinates":[-6.04656,41.0452]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3703","PROV":"Salamanca","COM":"Comarca 03: Salamanca"},"geometry":{"type":"Point","coordinates":[-5.61713,41.06523]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3704","PROV":"Salamanca","COM":"Comarca 04: Peñaranda de Bracamonte"},"geometry":{"type":"Point","coordinates":[-5.24776,40.97618]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3705","PROV":"Salamanca","COM":"Comarca 05: Fuente de San Esteban"},"geometry":{"type":"Point","coordinates":[-6.14309,40.77021]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3705","PROV":"Salamanca","COM":"Comarca 05: Fuente de San Esteban"},"geometry":{"type":"Point","coordinates":[-6.52028,40.77978]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3706","PROV":"Salamanca","COM":"Comarca 06: Alba de Tormes"},"geometry":{"type":"Point","coordinates":[-5.46658,40.53515]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3706","PROV":"Salamanca","COM":"Comarca 06: Alba de Tormes"},"geometry":{"type":"Point","coordinates":[-5.51902,40.72794]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3707","PROV":"Salamanca","COM":"Comarca 07: Ciudad Rodrigo"},"geometry":{"type":"Point","coordinates":[-6.64346,40.57957]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3708","PROV":"Salamanca","COM":"Comarca 08: La Sierra"},"geometry":{"type":"Point","coordinates":[-5.93267,40.46886]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3801","PROV":"Santa Cruz de Tenerife","COM":"Comarca 01: Norte de Tenerife"},"geometry":{"type":"Point","coordinates":[-16.61569,28.31824]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3802","PROV":"Santa Cruz de Tenerife","COM":"Comarca 02: Sur de Tenerife"},"geometry":{"type":"Point","coordinates":[-16.58924,28.1209]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3803","PROV":"Santa Cruz de Tenerife","COM":"Comarca 03: Isla de la Palma"},"geometry":{"type":"Point","coordinates":[-17.86512,28.72506]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3804","PROV":"Santa Cruz de Tenerife","COM":"Comarca 04: Isla de la Gomera"},"geometry":{"type":"Point","coordinates":[-17.23975,28.11503]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3805","PROV":"Santa Cruz de Tenerife","COM":"Comarca 05: Isla de Hierro"},"geometry":{"type":"Point","coordinates":[-18.00594,27.72409]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3901","PROV":"Cantabria","COM":"Comarca 01: Costera"},"geometry":{"type":"Point","coordinates":[-3.90948,43.38031]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3901","PROV":"Cantabria","COM":"Comarca 01: Costera"},"geometry":{"type":"Point","coordinates":[-3.45798,43.41744]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3901","PROV":"Cantabria","COM":"Comarca 01: Costera"},"geometry":{"type":"Point","coordinates":[-3.77099,43.46538]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3901","PROV":"Cantabria","COM":"Comarca 01: Costera"},"geometry":{"type":"Point","coordinates":[-3.73,43.47322]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3902","PROV":"Cantabria","COM":"Comarca 02: Liébana"},"geometry":{"type":"Point","coordinates":[-4.64442,43.13439]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3903","PROV":"Cantabria","COM":"Comarca 03: Tudanca-Cabuérniga"},"geometry":{"type":"Point","coordinates":[-4.34975,43.16197]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3904","PROV":"Cantabria","COM":"Comarca 04: Pas-Iguña"},"geometry":{"type":"Point","coordinates":[-3.8916,43.17954]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3905","PROV":"Cantabria","COM":"Comarca 05: Asón"},"geometry":{"type":"Point","coordinates":[-3.54772,43.22854]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3905","PROV":"Cantabria","COM":"Comarca 05: Asón"},"geometry":{"type":"Point","coordinates":[-3.27841,43.24654]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES3906","PROV":"Cantabria","COM":"Comarca 06: Reinosa"},"geometry":{"type":"Point","coordinates":[-4.01413,43.02773]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4001","PROV":"Segovia","COM":"Comarca 01: Cuéllar"},"geometry":{"type":"Point","coordinates":[-4.32835,40.83485]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4001","PROV":"Segovia","COM":"Comarca 01: Cuéllar"},"geometry":{"type":"Point","coordinates":[-4.42284,41.07369]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4002","PROV":"Segovia","COM":"Comarca 02: Sepúlveda"},"geometry":{"type":"Point","coordinates":[-3.58878,41.40941]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4003","PROV":"Segovia","COM":"Comarca 03: Segovia"},"geometry":{"type":"Point","coordinates":[-4.0567,40.95627]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4101","PROV":"Sevilla","COM":"Comarca 01: La Sierra Norte"},"geometry":{"type":"Point","coordinates":[-5.78837,37.90963]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4102","PROV":"Sevilla","COM":"Comarca 02: La Vega"},"geometry":{"type":"Point","coordinates":[-5.49709,37.66994]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4102","PROV":"Sevilla","COM":"Comarca 02: La Vega"},"geometry":{"type":"Point","coordinates":[-6.11225,37.3378]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4103","PROV":"Sevilla","COM":"Comarca 03: El Aljarafe"},"geometry":{"type":"Point","coordinates":[-6.24144,37.39745]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4103","PROV":"Sevilla","COM":"Comarca 03: El Aljarafe"},"geometry":{"type":"Point","coordinates":[-6.02438,37.44754]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4104","PROV":"Sevilla","COM":"Comarca 04: Las Marismas"},"geometry":{"type":"Point","coordinates":[-6.21419,37.13473]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4105","PROV":"Sevilla","COM":"Comarca 05: La Campiña"},"geometry":{"type":"Point","coordinates":[-5.60729,37.38206]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4106","PROV":"Sevilla","COM":"Comarca 06: La Sierra Sur"},"geometry":{"type":"Point","coordinates":[-5.36,37.1141]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4107","PROV":"Sevilla","COM":"Comarca 07: De Estepa"},"geometry":{"type":"Point","coordinates":[-4.89592,37.28918]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4201","PROV":"Soria","COM":"Comarca 01: Pinares"},"geometry":{"type":"Point","coordinates":[-3.04466,41.82222]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4201","PROV":"Soria","COM":"Comarca 01: Pinares"},"geometry":{"type":"Point","coordinates":[-2.82052,41.95004]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4202","PROV":"Soria","COM":"Comarca 02: Tierras Altas y Valle del Tera"},"geometry":{"type":"Point","coordinates":[-2.40929,42.00775]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4203","PROV":"Soria","COM":"Comarca 03: Burgo de Osma"},"geometry":{"type":"Point","coordinates":[-3.19935,41.59471]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4204","PROV":"Soria","COM":"Comarca 04: Soria"},"geometry":{"type":"Point","coordinates":[-2.63705,41.70415]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4204","PROV":"Soria","COM":"Comarca 04: Soria"},"geometry":{"type":"Point","coordinates":[-1.93503,41.7055]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4205","PROV":"Soria","COM":"Comarca 05: Campo de Gómara"},"geometry":{"type":"Point","coordinates":[-2.16378,41.62025]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4206","PROV":"Soria","COM":"Comarca 06: Almazán"},"geometry":{"type":"Point","coordinates":[-2.46113,41.45366]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4207","PROV":"Soria","COM":"Comarca 07: Arcos de Jalón"},"geometry":{"type":"Point","coordinates":[-2.40566,41.16242]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4301","PROV":"Tarragona","COM":"Comarca 01: Terra-Alta"},"geometry":{"type":"Point","coordinates":[0.38315,41.07721]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4302","PROV":"Tarragona","COM":"Comarca 02: Ribera de Ebro"},"geometry":{"type":"Point","coordinates":[0.65914,41.03374]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4303","PROV":"Tarragona","COM":"Comarca 03: Bajo Ebro"},"geometry":{"type":"Point","coordinates":[0.51108,40.77784]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4303","PROV":"Tarragona","COM":"Comarca 03: Bajo Ebro"},"geometry":{"type":"Point","coordinates":[0.85268,40.72488]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4303","PROV":"Tarragona","COM":"Comarca 03: Bajo Ebro"},"geometry":{"type":"Point","coordinates":[0.86127,40.72878]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4303","PROV":"Tarragona","COM":"Comarca 03: Bajo Ebro"},"geometry":{"type":"Point","coordinates":[0.73748,40.78657]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4304","PROV":"Tarragona","COM":"Comarca 04: Priorato-Prades"},"geometry":{"type":"Point","coordinates":[0.79674,41.23304]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4305","PROV":"Tarragona","COM":"Comarca 05: Conca de Barberá"},"geometry":{"type":"Point","coordinates":[1.15144,41.39637]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4306","PROV":"Tarragona","COM":"Comarca 06: Segarra"},"geometry":{"type":"Point","coordinates":[1.3965,41.4554]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4307","PROV":"Tarragona","COM":"Comarca 07: Campo de Tarragona"},"geometry":{"type":"Point","coordinates":[1.06767,41.16602]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4308","PROV":"Tarragona","COM":"Comarca 08: Bajo Penedés"},"geometry":{"type":"Point","coordinates":[1.5047,41.3014]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4308","PROV":"Tarragona","COM":"Comarca 08: Bajo Penedés"},"geometry":{"type":"Point","coordinates":[1.63528,41.31149]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4401","PROV":"Teruel","COM":"Comarca 01: Cuenca del Jiloca"},"geometry":{"type":"Point","coordinates":[-1.33197,40.85704]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4402","PROV":"Teruel","COM":"Comarca 02: Serranía de Montalbán"},"geometry":{"type":"Point","coordinates":[-0.94226,40.85381]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4403","PROV":"Teruel","COM":"Comarca 03: Bajo Aragón"},"geometry":{"type":"Point","coordinates":[-0.30528,40.98044]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4404","PROV":"Teruel","COM":"Comarca 04: Serranía de Albarracín"},"geometry":{"type":"Point","coordinates":[-1.48241,40.62994]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4405","PROV":"Teruel","COM":"Comarca 05: Hoya de Teruel"},"geometry":{"type":"Point","coordinates":[-1.08006,40.25306]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4406","PROV":"Teruel","COM":"Comarca 06: Maestrazgo"},"geometry":{"type":"Point","coordinates":[-0.66765,40.37713]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4501","PROV":"Toledo","COM":"Comarca 01: Talavera"},"geometry":{"type":"Point","coordinates":[-4.81296,40.0058]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4502","PROV":"Toledo","COM":"Comarca 02: Torrijos"},"geometry":{"type":"Point","coordinates":[-4.34851,40.042]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4503","PROV":"Toledo","COM":"Comarca 03: Sagra-Toledo"},"geometry":{"type":"Point","coordinates":[-3.91252,40.05387]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4504","PROV":"Toledo","COM":"Comarca 04: La Jara"},"geometry":{"type":"Point","coordinates":[-4.99912,39.62206]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4505","PROV":"Toledo","COM":"Comarca 05: Montes de Navahermosa"},"geometry":{"type":"Point","coordinates":[-4.42734,39.63955]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4506","PROV":"Toledo","COM":"Comarca 06: Montes de los Yébenes"},"geometry":{"type":"Point","coordinates":[-3.93855,39.45817]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4507","PROV":"Toledo","COM":"Comarca 07: La Mancha"},"geometry":{"type":"Point","coordinates":[-3.4889,39.7014]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4601","PROV":"Valencia","COM":"Comarca 01: Rincón de Ademuz"},"geometry":{"type":"Point","coordinates":[-1.30366,40.07926]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4602","PROV":"Valencia","COM":"Comarca 02: Alto Turia"},"geometry":{"type":"Point","coordinates":[-0.55725,39.49249]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4602","PROV":"Valencia","COM":"Comarca 02: Alto Turia"},"geometry":{"type":"Point","coordinates":[-1.00803,39.76511]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4602","PROV":"Valencia","COM":"Comarca 02: Alto Turia"},"geometry":{"type":"Point","coordinates":[-0.66868,39.65894]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4603","PROV":"Valencia","COM":"Comarca 03: Campos de Liria"},"geometry":{"type":"Point","coordinates":[-0.74106,39.59847]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4604","PROV":"Valencia","COM":"Comarca 04: Requena-Utiel"},"geometry":{"type":"Point","coordinates":[-1.23628,39.50512]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4605","PROV":"Valencia","COM":"Comarca 05: Hoya de Buñol"},"geometry":{"type":"Point","coordinates":[-0.74516,39.39724]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4606","PROV":"Valencia","COM":"Comarca 06: Sagunto"},"geometry":{"type":"Point","coordinates":[-0.34109,39.68581]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4607","PROV":"Valencia","COM":"Comarca 07: Huerta de Valencia"},"geometry":{"type":"Point","coordinates":[-0.43647,39.43233]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4607","PROV":"Valencia","COM":"Comarca 07: Huerta de Valencia"},"geometry":{"type":"Point","coordinates":[-0.29998,39.55623]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4608","PROV":"Valencia","COM":"Comarca 08: Riberas del Júcar"},"geometry":{"type":"Point","coordinates":[-0.40744,39.18669]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4609","PROV":"Valencia","COM":"Comarca 09: Gandía"},"geometry":{"type":"Point","coordinates":[-0.26583,39.06122]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4610","PROV":"Valencia","COM":"Comarca 10: Valle de Ayora"},"geometry":{"type":"Point","coordinates":[-1.08225,39.08103]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4611","PROV":"Valencia","COM":"Comarca 11: Enguera y la Canal"},"geometry":{"type":"Point","coordinates":[-0.7677,39.0437]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4612","PROV":"Valencia","COM":"Comarca 12: La Costera de Játiva"},"geometry":{"type":"Point","coordinates":[-0.8617,38.84466]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4612","PROV":"Valencia","COM":"Comarca 12: La Costera de Játiva"},"geometry":{"type":"Point","coordinates":[-0.51433,38.93788]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4612","PROV":"Valencia","COM":"Comarca 12: La Costera de Játiva"},"geometry":{"type":"Point","coordinates":[-0.58233,38.99216]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4612","PROV":"Valencia","COM":"Comarca 12: La Costera de Játiva"},"geometry":{"type":"Point","coordinates":[-0.55027,39.05241]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4613","PROV":"Valencia","COM":"Comarca 13: Valles de Albaida"},"geometry":{"type":"Point","coordinates":[-0.43878,38.90379]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4701","PROV":"Valladolid","COM":"Comarca 01: Tierra de Campos"},"geometry":{"type":"Point","coordinates":[-5.11955,42.03953]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4701","PROV":"Valladolid","COM":"Comarca 01: Tierra de Campos"},"geometry":{"type":"Point","coordinates":[-4.91084,41.7512]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4701","PROV":"Valladolid","COM":"Comarca 01: Tierra de Campos"},"geometry":{"type":"Point","coordinates":[-5.45417,41.99377]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4701","PROV":"Valladolid","COM":"Comarca 01: Tierra de Campos"},"geometry":{"type":"Point","coordinates":[-5.33025,42.25587]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4702","PROV":"Valladolid","COM":"Comarca 02: Centro"},"geometry":{"type":"Point","coordinates":[-4.76193,41.67304]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4703","PROV":"Valladolid","COM":"Comarca 03: Sur"},"geometry":{"type":"Point","coordinates":[-5.01203,41.35005]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4704","PROV":"Valladolid","COM":"Comarca 04: Sureste"},"geometry":{"type":"Point","coordinates":[-4.61837,41.44374]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4801","PROV":"Vizcaya","COM":"Comarca 01: Vizcaya"},"geometry":{"type":"Point","coordinates":[-3.03437,43.002]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4801","PROV":"Vizcaya","COM":"Comarca 01: Vizcaya"},"geometry":{"type":"Point","coordinates":[-2.74454,43.17754]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4801","PROV":"Vizcaya","COM":"Comarca 01: Vizcaya"},"geometry":{"type":"Point","coordinates":[-2.49542,43.36692]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4801","PROV":"Vizcaya","COM":"Comarca 01: Vizcaya"},"geometry":{"type":"Point","coordinates":[-2.68818,43.39017]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4801","PROV":"Vizcaya","COM":"Comarca 01: Vizcaya"},"geometry":{"type":"Point","coordinates":[-2.68934,43.388]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4801","PROV":"Vizcaya","COM":"Comarca 01: Vizcaya"},"geometry":{"type":"Point","coordinates":[-2.68803,43.38816]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4801","PROV":"Vizcaya","COM":"Comarca 01: Vizcaya"},"geometry":{"type":"Point","coordinates":[-2.6929,43.39375]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4901","PROV":"Zamora","COM":"Comarca 01: Sanabria"},"geometry":{"type":"Point","coordinates":[-6.66949,42.07676]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4902","PROV":"Zamora","COM":"Comarca 02: Benavente y los Valles"},"geometry":{"type":"Point","coordinates":[-5.78916,41.99535]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4903","PROV":"Zamora","COM":"Comarca 03: Aliste"},"geometry":{"type":"Point","coordinates":[-6.04316,41.75631]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4904","PROV":"Zamora","COM":"Comarca 04: Campos-Pan"},"geometry":{"type":"Point","coordinates":[-5.54891,41.73905]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4905","PROV":"Zamora","COM":"Comarca 05: Sayago"},"geometry":{"type":"Point","coordinates":[-6.14894,41.35616]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES4906","PROV":"Zamora","COM":"Comarca 06: Duero Bajo"},"geometry":{"type":"Point","coordinates":[-5.64581,41.36972]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES5001","PROV":"Zaragoza","COM":"Comarca 01: Ejea de los Caballeros"},"geometry":{"type":"Point","coordinates":[-1.19694,41.83306]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES5001","PROV":"Zaragoza","COM":"Comarca 01: Ejea de los Caballeros"},"geometry":{"type":"Point","coordinates":[-0.9905,42.34611]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES5002","PROV":"Zaragoza","COM":"Comarca 02: Borja"},"geometry":{"type":"Point","coordinates":[-1.72123,41.82232]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES5003","PROV":"Zaragoza","COM":"Comarca 03: Calatayud"},"geometry":{"type":"Point","coordinates":[-1.73523,41.37841]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES5004","PROV":"Zaragoza","COM":"Comarca 04: La Almunia de Doña Godina"},"geometry":{"type":"Point","coordinates":[-1.34507,41.52894]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES5005","PROV":"Zaragoza","COM":"Comarca 05: Zaragoza"},"geometry":{"type":"Point","coordinates":[-0.97947,41.69977]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES5006","PROV":"Zaragoza","COM":"Comarca 06: Daroca"},"geometry":{"type":"Point","coordinates":[-1.58147,41.06031]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES5007","PROV":"Zaragoza","COM":"Comarca 07: Caspe"},"geometry":{"type":"Point","coordinates":[0.0839,41.21534]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES5101","PROV":"Ceuta","COM":"Comarca 01: Ceuta"},"geometry":{"type":"Point","coordinates":[-5.35927,35.89375]}}
+,
+{"type":"Feature","properties":{"COD_PROV_C":"ES5201","PROV":"Melilla","COM":"Comarca 01: Melilla"},"geometry":{"type":"Point","coordinates":[-2.95106,35.29051]}}]}
