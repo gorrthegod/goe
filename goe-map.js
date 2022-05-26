@@ -19,6 +19,13 @@ function initMap() {
     fillColor: "green",
     strokeWeight: 1,
   });
+  
+    // Set mouseover event for each feature.
+  map.data.addListener("mouseover", (event) => {
+    document.getElementById("info-box").textContent =
+      event.feature.getProperty("letter");
+  });
+  
 }
 
 window.initMap = initMap;
