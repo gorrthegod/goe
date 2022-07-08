@@ -67,15 +67,6 @@ map.data.setStyle(function(feature) {
 /** map.data.addListener('click', function(event) {
   event.feature.setProperty('isColorful', true);
 }); **/
-
-google.maps.Polygon.prototype.getBoundingBox = function() {
-  var bounds = new google.maps.LatLngBounds();
-  this.getPath().forEach(function(element,index) {
-    bounds.extend(element)
-  });
-  
-  return(bounds);
-};
   
   
 }
